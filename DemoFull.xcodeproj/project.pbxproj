@@ -95,6 +95,8 @@
 		B0E692982AD5AED500355891 /* DemoFull */ = {
 			isa = PBXGroup;
 			children = (
+				B0E692C52AD5AF3800355891 /* Features */,
+				B0E692C42AD5AF1E00355891 /* Base */,
 				B0E692992AD5AED500355891 /* DemoFullApp.swift */,
 				B0E6929B2AD5AED500355891 /* ContentView.swift */,
 				B0E6929D2AD5AED600355891 /* Assets.xcassets */,
@@ -127,6 +129,20 @@
 				B0E692B72AD5AED600355891 /* DemoFullUITestsLaunchTests.swift */,
 			);
 			path = DemoFullUITests;
+			sourceTree = "<group>";
+		};
+		B0E692C42AD5AF1E00355891 /* Base */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Base;
+			sourceTree = "<group>";
+		};
+		B0E692C52AD5AF3800355891 /* Features */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Features;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
