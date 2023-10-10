@@ -11,6 +11,7 @@ struct ContentView: View {
     var body: some View {
         VStack {
             // primer comentario
+            // segundo comentario commit desde sourcetree
             Image(systemName: "globe")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
