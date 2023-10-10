@@ -12,6 +12,8 @@ struct ContentView: View {
         VStack {
             // primer comentario
             // segundo comentario commit desde sourcetree
+            // tercer commentario desde xcode ya
+            // cuarto también
             Image(systemName: "globe")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
